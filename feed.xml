@@ -8,7 +8,46 @@
   <language>en-us</language>
 
 
-    <item>
+  <item>
+    <title>Angular in Practice: Secure Coding</title>
+    <link>https://www.pluralsight.com/courses/angular-practice-secure-coding</link>
+    <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+  </item>    
+
+
+
+  <item>
+    <title>OWASP: Authentication Failures</title>
+    <link>https://www.pluralsight.com/courses/owasp-authentication-failures</link>
+    <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+  </item>    
+
+  <item>
+    <title>Client-side Data Persistence</title>
+    <link>https://www.pluralsight.com/courses/client-side-data-persistence</link>
+    <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+  </item>    
+
+
+  <item>
+    <title>OWASP Top 10 Security Risks</title>
+    <link>https://www.pluralsight.com/courses/owasp-top-ten-security-risks</link>
+    <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+  </item>    
+
+  <item>
+    <title>TypeScript in Practice: Create Asynchronous Code</title>
+    <link>https://www.pluralsight.com/courses/typescript-practice-create-asynchronous-code</link>
+    <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+  </item>    
+
+
+
+
+  
+
+
+  <item>
     <title>Azure IAM Core Concepts</title>
     <link>https://www.pluralsight.com/courses/azure-iam-core-concepts</link>
     <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
@@ -23,21 +62,7 @@
   </item>  
   
 
-  <item>
-    <title>The First Interesting Link</title>
-    <link>https://www.example.com/article-one</link>
-    <guid isPermaLink="true">https://www.example.com/article-one</guid>
-    <description>A brief note about why I added this link.</description>
-    <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
-  </item>
 
-  <item>
-    <title>The Second Interesting Link</title>
-    <link>https://www.example.com/article-two</link>
-    <guid isPermaLink="true">https://www.example.com/article-two</guid>
-    <description>Another cool resource I found today.</description>
-    <pubDate>Mon, 02 Feb 2026 10:00:00 +0000</pubDate>
-  </item>
 
 </channel>
 </rss>
