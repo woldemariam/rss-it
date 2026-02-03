@@ -6,7 +6,22 @@
   <link>https://github.com/YOUR_USERNAME/YOUR_REPO</link>
   <description>A manually updated feed of interesting links</description>
   <language>en-us</language>
-  <lastBuildDate>Tue, 03 Feb 2026 13:50:00 +0000</lastBuildDate>
+
+
+    <item>
+    <title>Azure IAM Core Concepts</title>
+    <link>https://www.pluralsight.com/courses/azure-iam-core-concepts</link>
+    <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+  </item>  
+  
+  
+  
+  <item>
+    <title>OWASP: Software Supply Chain Failures</title>
+    <link>https://www.pluralsight.com/courses/owasp-software-supply-chain-failures</link>
+    <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+  </item>  
+  
 
   <item>
     <title>The First Interesting Link</title>
