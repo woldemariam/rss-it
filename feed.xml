@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+  <title>My Curated Link Feed</title>
+  <link>https://github.com/YOUR_USERNAME/YOUR_REPO</link>
+  <description>A manually updated feed of interesting links</description>
+  <language>en-us</language>
+  <lastBuildDate>Tue, 03 Feb 2026 13:50:00 +0000</lastBuildDate>
+
+  <item>
+    <title>The First Interesting Link</title>
+    <link>https://www.example.com/article-one</link>
+    <guid isPermaLink="true">https://www.example.com/article-one</guid>
+    <description>A brief note about why I added this link.</description>
+    <pubDate>Tue, 03 Feb 2026 12:00:00 +0000</pubDate>
+  </item>
+
+  <item>
+    <title>The Second Interesting Link</title>
+    <link>https://www.example.com/article-two</link>
+    <guid isPermaLink="true">https://www.example.com/article-two</guid>
+    <description>Another cool resource I found today.</description>
+    <pubDate>Mon, 02 Feb 2026 10:00:00 +0000</pubDate>
+  </item>
+
+</channel>
+</rss>
