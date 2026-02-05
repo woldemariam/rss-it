@@ -8,6 +8,38 @@
   <language>en-us</language>
 
 
+  <item>
+    <title>Exploring Object and Archival Storage in Azure</title>
+    <link>https://www.pluralsight.com/courses/azure-exploring-object-archival-storage</link>
+    <pubDate>Tue, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <description>
+      <p>Managing storage is one of the most important tasks for infrastructure engineers. This course will teach you how to work with storage tiers on Azure Blob Storage, including best practices and cost optimization.</p>
+      <p>26m</p>
+      <p>Created by Emilio Melo</p>
+    </description>
+  </item>   
+
+
+
+
+
+
+  <item>
+    <title>Identifying Opportunities for Gen AI in Your Organization</title>
+    <link>https://www.pluralsight.com/courses/gen-ai-organization-identifying-opportunities</link>
+    <pubDate>Tue, 05 Feb 2026 12:00:00 +0000</pubDate>
+    <description>
+      <p>Do you feel stuck between Gen AI hype and actual results? This course will teach you to spot high-value Gen AI opportunities, balance ROI and risk, and build a 90-day roadmap to launch confident pilots and scale responsibly.</p>
+      <p>49m</p>
+      <p>Created by Ana Voicu</p>
+    </description>
+  </item>   
+
+
+
+  
+  
+
 
   <item>
     <title>[trello] Scaling Your SQL Server Application</title>
